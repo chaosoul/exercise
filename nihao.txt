@@ -1,0 +1,2 @@
+pubilic static void main
+int x=1;
